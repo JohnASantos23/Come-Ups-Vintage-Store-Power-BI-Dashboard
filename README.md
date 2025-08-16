@@ -1,73 +1,86 @@
-📊 Come Ups Vintage Store Performance Dashboard
-🧾 Overview
+## 📊 Come Ups Vintage Store Performance Dashboard
+
+---
+
+## 🧾 Overview
 This Power BI dashboard was developed to provide an end-to-end business intelligence solution for a small vintage apparel business called Come Ups. The objective of this project was to visualize key sales and customer insights that would help business stakeholders make data-driven decisions related to profitability, product performance, and customer behavior.
 
-🎯 Business Objectives
-Track overall sales performance over time
+---
 
-Analyze total cost, profit, and margin
+## 🎯 Business Objectives
+-Track overall sales performance over time
 
-Identify top-performing product categories
+-Analyze total cost, profit, and margin
 
-Compare customer types (College Student vs Non-College Student)
+-Identify top-performing product categories
 
-Understand customer acquisition trends
+-Compare customer types (College Student vs Non-College Student)
 
-Showcase top customers by transaction volume and sales
+-Understand customer acquisition trends
 
-📌 Key Metrics
-Total Sales: $212K
+-Showcase top customers by transaction volume and sales
 
-Total Cost: $180K
+---
 
-Total Profit: $32K
+## 📌 Key Metrics
+-Total Sales: $212K
 
-Profit Margin: 15%
+-Total Cost: $180K
 
-Total Transactions: 2,500
+-Total Profit: $32K
 
-Average Sale: $85
+-Profit Margin: 15%
 
-📈 Dashboard Features
-Time Intelligence: Sales trends tracked monthly across multiple years (2023–2025)
+-Total Transactions: 2,500
 
-Customer Segmentation: Slice performance by College vs Non-College customer types
+-Average Sale: $85
 
-Product Analysis: Sales breakdown by category (Jackets, Shoes, Hoodies, etc.)
+---
 
-Top Customer Analysis: Ranks top 10 customers based on transaction volume and sales
+## 📈 Dashboard Features
+-Time Intelligence: Sales trends tracked monthly across multiple years (2023–2025)
 
-Slicers/Filters:
+-Customer Segmentation: Slice performance by College vs Non-College customer types
 
-Date range
+-Product Analysis: Sales breakdown by category (Jackets, Shoes, Hoodies, etc.)
 
-Customer type
+-Top Customer Analysis: Ranks top 10 customers based on transaction volume and sales
 
-Product category
+## Slicers/Filters:
+-Date range
 
-🧰 Tools & Skills Used
-Power BI (DAX, data modeling, custom visuals)
+-Customer type
 
-Excel (data cleaning, formatting)
+-Product category
 
-Data storytelling
+## 🧰 Tools & Skills Used
+- **Power BI (DAX, data modeling, custom visuals)**
 
-KPI design and layout
+- **Excel (data cleaning, formatting)**
 
-Customer and category segmentation logic
+- **Data storytelling**
 
-📁 Files Included
-Come Ups Sample Dashboard.pbix: Power BI file with interactive dashboard
+- **KPI design and layout**
 
-Come Ups Dashboard.PNG: Screenshot of the final visual dashboard
+- **Customer and category segmentation logic**
 
-🧠 What I Learned
-This project taught me how to:
+---
 
-Build a sales analysis dashboard from scratch
+## 📁 Files Included
+- `Come Ups Sample Dashboard.pbix`: Power BI file with interactive dashboard
 
-Handle segmented customer insights
+- `Come Ups Dashboard.PNG`: Screenshot of the final visual dashboard
 
-Apply business logic like margin calculation, acquisition tracking, and category rankings
+---
 
-Create a compelling and accessible visual storytelling experience using slicers and KPI tiles
+## 🧠 What I Learned
+-This project taught me how to:
+
+-Build a sales analysis dashboard from scratch
+
+-Handle segmented customer insights
+
+-Apply business logic like margin calculation, acquisition tracking, and category rankings
+
+-Create a compelling and accessible visual storytelling experience using slicers and KPI tiles
+
